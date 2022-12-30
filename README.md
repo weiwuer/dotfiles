@@ -1,2 +1,2 @@
 # dotfiles
-mess around dotfiles
+Messing around with dotfiles.
